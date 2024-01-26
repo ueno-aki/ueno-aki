@@ -9,4 +9,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/018c0866-7e22-4078-a16c-de0037255c85.svg)](https://wakatime.com/@018c0866-7e22-4078-a16c-de0037255c85)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=Ueno)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=Ueno)](https://wakatime.com/@018c0866-7e22-4078-a16c-de0037255c85)
